@@ -28,8 +28,8 @@ In this paper, we propose an adaptive region aggregation approach (DFPN) that em
 - Python libraries
 
   ```cmd
-  git colne ...
-  cd ...
+  git colne https://github.com/YueyueBird-su/DFPN_Module_in_MVS.git
+  cd Cas./Trans.
   conda env create -f acasmvsnet/atransmvsnet.yaml
   conda activate acasmvsnet/atransmvsnet
   ```
